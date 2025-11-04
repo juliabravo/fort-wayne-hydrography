@@ -1,4 +1,4 @@
-# fort-wayne-hydrography
+# Fort Wayne Hydrography
 **Subtitle:** Flowlines, Wetlands, and Waterbodies
 
 **Tools:** QGIS
