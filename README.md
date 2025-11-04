@@ -14,4 +14,4 @@ This project visualizes aquatic ecosystems in Fort Wayne, Indiana. The map highl
 - Explore and present local hydrography data
 - Build a portfolio piece for GIS and data visualization projects
 
-![Fort Wayne Hydrography](FW_Hydro.pdf)
+![Fort Wayne Hydrography](FW_Hydro.png)
